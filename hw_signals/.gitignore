@@ -1,0 +1,7 @@
+compile.sh
+in_data/*
+out
+reader.out
+sender.out
+run_sender.sh
+run_reader.sh
